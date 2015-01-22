@@ -27,7 +27,7 @@
 
 @media screen and (max-width: 414px) {
     .btn {
-        top: 59%;
+        top: 63%;
         left: 40%;
     }
 
@@ -35,7 +35,7 @@
         color: black;
     }
     h1 span{
-        top: 41%;
+        top: 46%;
     }
 }
 
