@@ -27,12 +27,15 @@
 
 @media screen and (max-width: 414px) {
     .btn {
-        top: 60%;
+        top: 65%;
         left: 40%;
     }
 
     .btn-outline {
         color: black;
+    }
+    h1 span{
+        top: 65%;
     }
 }
 
