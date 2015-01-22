@@ -1,0 +1,6 @@
+C:\Users\ebin\Documents\www\pizzapeople\bin\pizzapeople.dll.config
+C:\Users\ebin\Documents\www\pizzapeople\bin\pizzapeople.dll
+C:\Users\ebin\Documents\www\pizzapeople\bin\pizzapeople.pdb
+C:\Users\ebin\Documents\www\pizzapeople\obj\Debug\pizzapeople.csprojResolveAssemblyReference.cache
+C:\Users\ebin\Documents\www\pizzapeople\obj\Debug\pizzapeople.dll
+C:\Users\ebin\Documents\www\pizzapeople\obj\Debug\pizzapeople.pdb

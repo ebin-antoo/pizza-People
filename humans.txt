@@ -1,0 +1,22 @@
+﻿/* TEAM */                            
+  Develop & Design: 
+  ______   _______    _______    ____     _
+ |  ____| | |___ ||  |___ ___|   | \ \   | | 
+ | |__    | |   //      | |      | |\ \  | | 
+ |  __|   |  --||       | |      | | \ \ | | 
+ | |____  | |___\\    __| |__    | |  \ \| | 
+ |______| |_|____||  |_______|   |_|   \_\_|                           
+ 
+  Contact: ebin@ebin-antoo.com ; www.ebin-antoo.com                           
+  Twitter: @EbinAntoo
+  Location: CANADA
+                          
+/* THANKS */
+  GOOGLE
+
+                            
+/* SITE */                            
+  Last update: YYYY/MM/DD                             
+  Standards: HTML5, CSS3,..                           
+  Components: Bootstrap, jQuery, Javascript, ..                            
+  Software: Sublime Text, Visual Studio, Github, Ftploy, Git, ..

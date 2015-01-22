@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="404 Page Not Found - Pizza People">
+
+        <link type="text/plain" rel="author" href="../humans.txt" />
+        
+        <title>Page Not Found</title>
+
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link href="../css/404.css" rel="stylesheet" />
+        <link href="../css/hover-min.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <div class="container-fluid">
+            <div class="row" id="bg_img">
+                <img src="../assets/images/38183_food_pizza.jpg"  id="wrapper">
+
+                <h1>
+                    <span>Oops! Page not found</span>
+                </h1>
+
+                <a onclick="goBack()" class="btn btn-outline button hvr-bounce-to-bottom" style="position:absolute; color: black">Go Back</a>
+            </div><!-- /. row-->
+        </div><!-- /. container - fluid-->
+            
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+        <script>
+            function goBack() {
+                window.history.back()
+            }
+        </script>
+    </body>
+</html>

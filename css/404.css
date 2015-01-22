@@ -1,0 +1,43 @@
+﻿h1 span {
+    position: absolute;
+    top: 41%;
+    left: 40%;
+    color: white;
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
+.btn-outline {
+    color: white;
+    background-color: transparent;
+    border-color: #563d7c;
+}
+
+.btn {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33333;
+    border-radius: 6px;
+    left: 44.7%;
+    top: 51%;
+}
+
+@media screen and (max-width: 414px) {
+    .btn {
+        top: 60%;
+        left: 40%;
+    }
+
+    .btn-outline {
+        color: black;
+    }
+}
+
+img {
+    max-width: 100%;
+    position: fixed;
+    opacity: 0.32;
+}
